@@ -1,5 +1,10 @@
 # media-art-with-opencv
 
+## 制作背景
+大学院の課題で作成
+
+## 作品
+
 <img width="492" alt="output01" src="https://user-images.githubusercontent.com/43743859/215305039-4068862b-b78d-4486-97a5-dc05e7242022.png">
 
 
